@@ -23,4 +23,4 @@ programa
     }
   }
 }
-  // Sou um dos poucos que não tá usando gpt :D ,é magnifico quando se faz algo dificil a partir do proprio esforço.
+
